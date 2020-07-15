@@ -53,6 +53,11 @@ npm run serve
 npm run build
 
 ***
+### sample , edit app
+
+https://idx-kuc.netlify.app/#/cms_edit
+
+***
 ### Blog :
 
 https://note.com/knaka0209/n/nfbe2ab41a344
