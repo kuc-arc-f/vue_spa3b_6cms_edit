@@ -55,8 +55,7 @@ npm run build
 ***
 ### Blog :
 
-https://github.com/kuc-arc-f/vue_spa3b_6cms_edit
-
+https://note.com/knaka0209/n/nfbe2ab41a344
 
 ***
 
